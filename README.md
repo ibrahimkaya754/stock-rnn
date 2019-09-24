@@ -1,3 +1,5 @@
+Thanks to lilianweng for this great post. The original post is in link "https://github.com/lilianweng/stock-rnn"
+
 ### Predict stock market prices using RNN
 
 Check my blog post "Predict Stock Prices Using RNN": [Part 1](https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html) and [Part 2](https://lilianweng.github.io/lil-log/2017/07/22/predict-stock-prices-using-RNN-part-2.html) for the tutorial associated.
